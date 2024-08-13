@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Boston, MA",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "contact@loremipsum.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Dev",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "$70K - $80K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "contact@dolorsitamet.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Portland, OR",
+      "salary": "$100K - $110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "contact@ipsumlorem.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "30ce",
+      "title": "React Front-End Developer",
+      "type": "Full-Time",
+      "location": "Ankara - Turkiye",
+      "description": "What we’re looking for:\n\nWe are seeking a highly skilled and experienced Front-End Developer to join our innovative team. In this role, you will be responsible for developing user-facing features using React.js and Next.js, ensuring our applications are robust, scalable, and deliver an exceptional user experience. You possess creativity, flexibility, and a passion for crafting elegant software interfaces.\n\nKey Responsibilities:\n\nDevelop and implement high-quality web applications using React.js and Next.js.\nBuild and enhance user-facing features with a strong focus on performance and scalability.\nUtilize ES6/JavaScript programming language proficiently.\nIntegrate and manage state using Redux.js within React.js applications.\nWork with RESTful APIs to build and maintain web applications.\nDebug and resolve issues across our applications, ensuring optimal performance.\nIdentify, evaluate, and communicate front-end best practices.\nCollaborate closely with design and backend teams to create seamless customer-facing interfaces.\nContribute to the conception, development, and maintenance of new features and enhancements.\nShare diverse perspectives and innovative ideas to drive the project forward.\n\nQualifications:\n\nBachelor’s or Master’s degree in Computer Science, Engineering, Mathematics, or a related field.\n5+ years of experience in front-end development technologies: JavaScript/TypeScript, HTML, CSS, React/Redux.\nStrong proficiency in ES6/JavaScript programming language.\nProficiency in state management with Redux, including actions, reducers, and the Redux store.\nComprehensive understanding of web standards, browser functionality, HTML semantics, and familiarity with APIs.\nStrong understanding of UI/UX best practices and considerations.\nProven ability to debug and resolve issues effectively.\nProficient in version control, branching models, git/Github workflows, and PR review cycles.\nA portfolio showcasing consumer-facing or experience in SaaS products is a plus.\nAbility to work harmoniously with design and backend teammates.\nNo military obligation for male candidates or deferred for at least two years.\n\nThis position is highly promising in terms of bringing great opportunities for personal career growth since there are many things to explore, try, and learn together.\n\nCome and join us to create the promising & exciting future together!",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Mini Course Generator",
+        "description": "UpdateTEST\nJoin Our Ed-Tech Start-Up For An Exciting Journey!\n\nWe're a SaaS startup in the ed-tech vertical, dedicated to enhancing the learning experience and simplifying the lives of educational content providers & creators. Since late 2017, we've launched four products, all still active and bringing a novel approach to their markets. We're proud of the expertise and insights we've accumulated in ed-tech over the years.\n\n\nOne of our products, the Mini Course Generator, is gaining traction worldwide, reflected by consecutive monthly growth rates. To achieve our ambitious goals, we're seeking a talented team player for the 'Customer Success' position. This is your chance to make a truly impactful contribution and join this exciting journey at an early stage.\n\n\nOur office is located in METU Teknokent, which we believe is the best working environment in Ankara. Although this position is not suitable for a remote work, we embrace a hybrid working model.\n\nWhat you can expect from us:\n\nA competitive salary and benefits package.\nA chance to be a key member of the core team, contributing directly to the product's success in the global market.\nA friendly, and supportive working environment, including walks in the green surroundings of METU campus.",
+        "contactEmail": "test@test.com",
+        "contactPhone": "5555555555"
+      }
+    }
+  ]
+}
